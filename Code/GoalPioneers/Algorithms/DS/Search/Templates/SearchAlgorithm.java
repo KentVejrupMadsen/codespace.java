@@ -1,4 +1,4 @@
-	package GoalPioneers.Algorithms.Search;
+	package GoalPioneers.Algorithms.DS.Search.Templates;
 	
 
 	/**
